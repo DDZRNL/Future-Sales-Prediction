@@ -6,4 +6,4 @@ dataset_en is the dataset we use in this future sales prediction project
 
 The folder ML Apporach are the code we use multiple ML approaches to do prediction and the prediction result respectively.
 
-
+Appendix shows the parameters of each model before and after parameter tuning
